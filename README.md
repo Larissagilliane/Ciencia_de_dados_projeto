@@ -21,5 +21,4 @@ Professor: Ivanovitch Medeiros
 
 * Jonas Rocha -  Analise das localizações das vagas e um mapa interativo.
 * Larissa Moura - Tratamento de dados e histogramas
-* Natalia Azevedo ( natalia_eletro@hotmail.com )
-* Michel Jean ( michelkatsilis@gmail.com )
+* Natalia Azevedo - Tratamento de dados para merge de datasets, histogramas e gráfico pizza, nuvens de palavras.
