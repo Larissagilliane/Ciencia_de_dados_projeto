@@ -1,4 +1,4 @@
-# Terremotos e atividades vulcânicas
+# Perfil de profissionais das grandes empresas de TI
 
 A proposta desse trabalho é entender como os alunos de TI possam entender o que deve ser feito para atingir o perfil de grandes empresas da área de TI, como forma de possível crescimento profissional.
 
@@ -14,5 +14,12 @@ Professor: Ivanovitch Medeiros
 
 * Jonas Rocha ( jonasra4@gmail.com )
 * Larissa Moura ( larissagilliane@hotmail.com )
+* Natalia Azevedo ( natalia_eletro@hotmail.com )
+* Michel Jean ( michelkatsilis@gmail.com )
+
+## Colaborações de cada integrante:
+
+* Jonas Rocha -  Analise das localizações das vagas e um mapa interativo.
+* Larissa Moura - Tratamento de dados e histogramas
 * Natalia Azevedo ( natalia_eletro@hotmail.com )
 * Michel Jean ( michelkatsilis@gmail.com )
